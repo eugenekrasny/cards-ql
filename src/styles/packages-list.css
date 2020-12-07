@@ -1,0 +1,14 @@
+.packages-list {
+  list-style: none;
+  padding: 0;
+}
+
+.packages-list__item > * {
+  display: block;
+}
+
+.packages-list__item {
+  display: flex;
+  justify-content: space-between;
+  margin: 8px;
+}
